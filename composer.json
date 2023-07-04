@@ -1,0 +1,12 @@
+{
+  "name": "lapayshow/gpart.local",
+  "description": "Gpart Local (LOODSEN VERSION)",
+  "homepage": "https://github.com/lapayshow/gpart.local",
+  "type": "bitrix-module",
+  "keywords": [
+    "bitrix",
+    "uplab",
+    "loodsen version"
+  ],
+  "license": "MIT"
+}
