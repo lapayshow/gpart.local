@@ -43,7 +43,7 @@ class ProtectionController extends Controller
 		if (
 			!isset($number)
 			|| trim($number) < 50000000
-			|| trim($number) > 65000000
+			|| trim($number) > 81700096
 			|| !is_numeric($number)
 		) {
 
